@@ -48,6 +48,8 @@
                 <integer>0</integer>
                 <key>Mobile Motion Module</key>
                 <integer>1</integer>
+                <key>TTYSPreventSleep</key>
+                <integer>1</integer>
             </dict>
             <key>Battery Power</key>
             <dict>
@@ -83,6 +85,8 @@
                 <integer>1</integer>
                 <key>Mobile Motion Module</key>
                 <integer>1</integer>
+                <key>TTYSPreventSleep</key>
+                <integer>1</integer>
             </dict>
             <key>UPS Power</key>
             <dict>
@@ -117,6 +121,8 @@
                 <key>ReduceBrightness</key>
                 <integer>1</integer>
                 <key>Mobile Motion Module</key>
+                <integer>1</integer>
+                <key>TTYSPreventSleep</key>
                 <integer>1</integer>
             </dict>
         </dict>
@@ -155,6 +161,8 @@
                 <integer>0</integer>
                 <key>Mobile Motion Module</key>
                 <integer>1</integer>
+                <key>TTYSPreventSleep</key>
+                <integer>1</integer>
             </dict>
             <key>Battery Power</key>
             <dict>
@@ -190,6 +198,8 @@
                 <integer>1</integer>
                 <key>Mobile Motion Module</key>
                 <integer>1</integer>
+                <key>TTYSPreventSleep</key>
+                <integer>1</integer>
             </dict>
             <key>UPS Power</key>
             <dict>
@@ -224,6 +234,8 @@
                 <key>ReduceBrightness</key>
                 <integer>1</integer>
                 <key>Mobile Motion Module</key>
+                <integer>1</integer>
+                <key>TTYSPreventSleep</key>
                 <integer>1</integer>
             </dict>
         </dict>
@@ -262,6 +274,8 @@
                 <integer>0</integer>
                 <key>Mobile Motion Module</key>
                 <integer>1</integer>
+                <key>TTYSPreventSleep</key>
+                <integer>1</integer>
             </dict>
             <key>Battery Power</key>
             <dict>
@@ -297,6 +311,8 @@
                 <integer>1</integer>
                 <key>Mobile Motion Module</key>
                 <integer>1</integer>
+                <key>TTYSPreventSleep</key>
+                <integer>1</integer>
             </dict>
             <key>UPS Power</key>
             <dict>
@@ -331,6 +347,8 @@
                 <key>ReduceBrightness</key>
                 <integer>1</integer>
                 <key>Mobile Motion Module</key>
+                <integer>1</integer>
+                <key>TTYSPreventSleep</key>
                 <integer>1</integer>
             </dict>
         </dict>
@@ -369,6 +387,8 @@
                 <integer>0</integer>
                 <key>Mobile Motion Module</key>
                 <integer>1</integer>
+                <key>TTYSPreventSleep</key>
+                <integer>1</integer>
             </dict>
             <key>Battery Power</key>
             <dict>
@@ -404,6 +424,8 @@
                 <integer>0</integer>
                 <key>Mobile Motion Module</key>
                 <integer>1</integer>
+                <key>TTYSPreventSleep</key>
+                <integer>1</integer>
             </dict>
             <key>UPS Power</key>
             <dict>
@@ -438,6 +460,8 @@
                 <key>ReduceBrightness</key>
                 <integer>0</integer>
                 <key>Mobile Motion Module</key>
+                <integer>1</integer>
+                <key>TTYSPreventSleep</key>
                 <integer>1</integer>
             </dict>
         </dict>
@@ -476,6 +500,8 @@
                 <integer>0</integer>
                 <key>Mobile Motion Module</key>
                 <integer>1</integer>
+                <key>TTYSPreventSleep</key>
+                <integer>1</integer>
             </dict>
             <key>Battery Power</key>
             <dict>
@@ -511,6 +537,8 @@
                 <integer>0</integer>
                 <key>Mobile Motion Module</key>
                 <integer>1</integer>
+                <key>TTYSPreventSleep</key>
+                <integer>1</integer>
             </dict>
             <key>UPS Power</key>
             <dict>
@@ -545,6 +573,8 @@
                 <key>ReduceBrightness</key>
                 <integer>0</integer>
                 <key>Mobile Motion Module</key>
+                <integer>1</integer>
+                <key>TTYSPreventSleep</key>
                 <integer>1</integer>
             </dict>
         </dict>
